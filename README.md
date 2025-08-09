@@ -47,7 +47,7 @@
 </div>
 
 ###
-
+<!--
 <img align="right" height="150" src="https://user-images.githubusercontent.com/113233555/189475306-7f443f9d-1fc1-4197-9883-faed073ee784.gif"  />
 
 ###
@@ -57,5 +57,6 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=99y3uizcwvqhakvts1q9cn2km&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+-->
 
 ###
