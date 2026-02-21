@@ -54,11 +54,13 @@
 
 ###
 -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/99y3uizcwvqhakvts1q9cn2km">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=99y3uizcwvqhakvts1q9cn2km&count=3&unique=false" alt="Spotify recently played"  />
   </a>
+</div> -->
+<div align="center">
+  <a href="https://volt.fm/egoist" target="_blank"><img src="https://spotify-badge-egoist.vercel.app/api/now-playing" width="540" height="52" alt="now playing"></a>
 </div>
-
 
 ###
