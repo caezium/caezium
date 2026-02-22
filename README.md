@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats-sigma-eight-73.vercel.app/api?username=caezium&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caezium&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&exclude_repo=forumorrow-theme" height="150" alt="languages graph" /> -->
 </div>
@@ -59,8 +59,11 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=99y3uizcwvqhakvts1q9cn2km&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div> -->
+
+---
+
 <div align="center">
-  <a href="https://volt.fm/user/3but1ku4nglakjjc" target="_blank"><img src="https://spotify-badge-caeziums-projects.vercel.app/api/now-playing.svg" width="540" height="52" alt="now playing"></a>
+  <a href="https://volt.fm/user/3but1ku4nglakjjc" target="_blank"><img src="https://spotify-badge-caeziums-projects.vercel.app/api/now-playing" width="540" height="52" alt="now playing"></a>
 </div>
 
 ###
