@@ -60,7 +60,7 @@
   </a>
 </div> -->
 <div align="center">
-  <a href="https://volt.fm/user/3but1ku4nglakjjc" target="_blank"><img src="https://spotify-badge-caeziums-projects.vercel.app/api/now-playing" width="540" height="52" alt="now playing"></a>
+  <a href="https://volt.fm/user/3but1ku4nglakjjc" target="_blank"><img src="https://spotify-badge-caeziums-projects.vercel.app/api/now-playing.svg" width="540" height="52" alt="now playing"></a>
 </div>
 
 ###
