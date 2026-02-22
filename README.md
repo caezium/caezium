@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-sigma-eight-73.vercel.app/api?username=caezium&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-eight-73.vercel.app/api?username=caezium&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=catppuccin_latte&locale=en&hide_border=true" height="150" alt="stats graph"  />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caezium&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&exclude_repo=forumorrow-theme" height="150" alt="languages graph" /> -->
 </div>
 
