@@ -60,10 +60,25 @@
   </a>
 </div> -->
 
+###
+
+<div align="center">
+  <!-- ![Tokscale Stats](https://tokscale.ai/api/embed/caezium/svg) -->
+  <img src="https://tokscale-card-4adf07yxl-caeziums-projects.vercel.app/api/card/caezium" alt="token usage" />
+</div>
+
+
+
+###
+
+
 ---
 
 <div align="center">
   <a href="https://volt.fm/user/3but1ku4nglakjjc" target="_blank"><img src="https://spotify-badge-caeziums-projects.vercel.app/api/now-playing.svg" width="540" height="52" alt="now playing"></a>
 </div>
 
+
 ###
+
+
