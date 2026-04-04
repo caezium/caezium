@@ -64,7 +64,7 @@
 
 <div align="center">
   <!-- ![Tokscale Stats](https://tokscale.ai/api/embed/caezium/svg) -->
-  <img src="https://tokscale-card-4adf07yxl-caeziums-projects.vercel.app/api/card/caezium" alt="token usage" />
+  <img src="https://tokscale-readme-stats.vercel.app/api/card/caezium?theme=catppuccin_latte&avatar=0&profile=0&rank=0&days=0&grid_color=purple&hide_border=true&footer=false&cost=false" height="150" alt="tokscale stats" />
 </div>
 
 
