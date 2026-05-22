@@ -9,6 +9,12 @@
   <a href="https://tokscale.ai/u/caezium" target="_blank">
     <img src="https://tokscale-readme-stats.vercel.app/api/card/caezium?theme=catppuccin_latte&avatar=0&profile=0&rank=0&days=0&grid_color=purple&hide_border=true&footer=false&cost=false" height="140" alt="tokscale stats" />
   </a>
+  <a href="https://www.kaggle.com/caesium137" target="_blank">
+    <!-- <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/caesium137" alt="Kaggle" /><br/> -->
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesium137/competition/light" alt="Competition" height="140" /><br/>
+    <!-- <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesium137/dataset/light" alt="Dataset" /><br/> -->
+    <!-- <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesium137/notebook/light" alt="Notebook" /> -->
+  </a>
 </div>
 
 
