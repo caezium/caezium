@@ -14,6 +14,6 @@
 
 <div align="center">
   <a href="https://volt.fm/user/3but1ku4nglakjjc" target="_blank">
-    <img src="https://badges.henryzh.dev/spotify.svg" width="540" height="52" alt="now playing">
+    <img src="https://badges.henryzh.dev/spotify-native.svg" width="540" alt="now playing" />
   </a>
 </div>
