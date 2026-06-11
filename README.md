@@ -1,6 +1,6 @@
 <h2 align="left">hi henry here! im just a student trying to learn stuff</h2>
 
-I'm currently an assistant researcher at a private quant fund trading Chinese A-shares, where I do AI research and build AI products.
+I'm currently an assistant researcher at a private quant fund trading Chinese A-shares, where I do quant research and build AI products.
 
 I'm interested in agentic engineering, quantitative research, and racing telemetry — I race karts competitively.
 
