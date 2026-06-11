@@ -57,6 +57,10 @@ It's nice meeting you! Feel free to reach out to me.
 - Apex Sim — racing agent benchmark: LLMs pick a racing line and react to engineer radio, the sim drives (private)
 - Vista — visual dashboard for AI coding agents: see what the agent is doing without reading prose (private)
 - Receipts — watch-time transparency layer exposing undisclosed sponsorship and AI content in creator videos (private)
+- Data Science Auto Engineer
+- Coworker for education
+- PastPaperRank
+- LeveledAI (edtech)
 
 ### Everything Else
 
