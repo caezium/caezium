@@ -36,6 +36,8 @@ It's nice meeting you! Feel free to reach out to me.
 - GripCast — sunset-style track-day conditions score for karting (private)
 - Kart telemetry experiment — Insta360 Go 3S as a multi-purpose IMU + video sensor for 125cc karting (private)
 - [pitwall](https://github.com/caezium/pitwall) — personal finance command center: karting expenses, AI token costs, IBKR portfolio
+- IAME X30 Engine Jetting Calculator
+- Karting Tire Pressure Model/Calculator tool
 
 ### Obsidian Plugins
 
@@ -68,3 +70,4 @@ It's nice meeting you! Feel free to reach out to me.
 - henry-badges — the Cloudflare Worker rendering every badge below (private)
 - [robotics-project](https://github.com/caezium/robotics-project) — Stanford robotics research project
 - [SCIE-1024-Challenge](https://github.com/caezium/SCIE-1024-Challenge-Competition-2025) — first place, data science track, 2025
+- AI Inventory Management App
