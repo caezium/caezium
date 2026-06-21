@@ -116,3 +116,10 @@ It's nice meeting you! Feel free to reach out to me.
 - **leveled AI** ([@leveledai](https://github.com/leveledai)) — adaptive edtech
 - **PastPaperRank** ([@PastPaperRank](https://github.com/PastPaperRank)) — practice real past paper questions by subject, topic and difficulty
 - **Coworker** - minimally-invasive AI study layer for students
+
+
+
+## links
+- site: henryzh.dev
+- github: @caezium
+- email: henryzhang137@gmail.com
