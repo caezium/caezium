@@ -120,6 +120,6 @@ It's nice meeting you! Feel free to reach out to me.
 
 
 ## links
-- site: henryzh.dev
+- site: [henryzh.dev](henryzh.dev)
 - github: @caezium
 - email: henryzhang137@gmail.com
