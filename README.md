@@ -12,8 +12,8 @@ It's nice meeting you! Feel free to reach out to me.
   <a href="https://github.com/caezium" target="_blank">
     <img src="https://badges.henryzh.dev/github.svg" height="140" alt="GitHub stats" />
   </a>
-  <a href="https://tokscale.ai/u/caezium" target="_blank">
-    <img src="https://badges.henryzh.dev/tokscale.svg" height="140" alt="Tokscale stats" />
+  <a href="https://tokenwise.henryzhanglelezzh.workers.dev/u/caezium" target="_blank">
+    <img src="https://tokenwise.henryzhanglelezzh.workers.dev/card.svg?compact=1" height="140" alt="Tokenwise stats" />
   </a>
   <a href="https://www.kaggle.com/caesium137" target="_blank">
     <img src="https://badges.henryzh.dev/kaggle.svg" height="140" alt="Kaggle competition" />
