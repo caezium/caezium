@@ -26,7 +26,9 @@ It's nice meeting you! Feel free to reach out to me.
   </a>
 </div> -->
 <div align="center">
-  <img src="https://badges.henryzh.dev/card.svg" width="796" alt="Henry's stats — GitHub, Tokenwise, Kaggle, now playing" />
+  <a href="https://tokenwise.henryzh.dev/u/caezium" target="_blank">
+    <img src="https://badges.henryzh.dev/card.svg" width="796" alt="Henry's stats — GitHub, Tokenwise, Kaggle, now playing" />
+  </a>
 </div>
 
 ## Current Projects
@@ -124,4 +126,5 @@ It's nice meeting you! Feel free to reach out to me.
 ## links
 - site: [henryzh.dev](henryzh.dev)
 - github: @caezium
+- kaggle: @caesium137
 - email: henryzhang137@gmail.com
