@@ -8,7 +8,7 @@ I occasionally participate in academic competitions and kart races.
 
 It's nice meeting you! Feel free to reach out to me.
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/caezium" target="_blank">
     <img src="https://badges.henryzh.dev/github.svg" height="140" alt="GitHub stats" />
   </a>
@@ -24,8 +24,10 @@ It's nice meeting you! Feel free to reach out to me.
   <a href="https://volt.fm/user/3but1ku4nglakjjc" target="_blank">
     <img src="https://badges.henryzh.dev/spotify-native.svg" width="540" alt="now playing" />
   </a>
+</div> -->
+<div align="center">
+  <img src="https://badges.henryzh.dev/card.svg" width="796" alt="Henry's stats — GitHub, Tokenwise, Kaggle, now playing" />
 </div>
-
 
 ## Current Projects
 
