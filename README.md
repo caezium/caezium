@@ -27,7 +27,13 @@ It's nice meeting you! Feel free to reach out to me.
 </div> -->
 <div align="center">
   <a href="https://tokenwise.henryzh.dev/u/caezium" target="_blank">
-    <img src="https://badges.henryzh.dev/card.svg" width="796" alt="Henry's stats — GitHub, Tokenwise, Kaggle, now playing" />
+    <img src="https://badges.henryzh.dev/card.svg" height="140" alt="Henry's stats — GitHub, Tokenwise, Kaggle" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://volt.fm/user/3but1ku4nglakjjc" target="_blank">
+    <img src="https://badges.henryzh.dev/spotify-native.svg" width="540" alt="now playing" />
   </a>
 </div>
 
