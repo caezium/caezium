@@ -41,9 +41,9 @@ It's nice meeting you! Feel free to reach out to me.
 
 ### Featured
 
-- **[Burrow](https://github.com/caezium/Burrow)** · 600+★ — free, native macOS GUI for the Mole CLI: clean, uninstall, optimize, analyze disk, watch live status, plus a long-range local metrics history and an MCP server for AI agents. `brew install --cask caezium/tap/burrow`
+- **[Burrow](https://github.com/caezium/Burrow)** · 860+★ · 1,000+ telemetry-verified installs — free, native macOS GUI for the Mole CLI: clean, uninstall, optimize, analyze disk, watch live status, plus a long-range local metrics history and an MCP server for AI agents. `brew install --cask caezium/tap/burrow`
 - **[stint](https://github.com/caezium/stint)** — racing telemetry analysis for AiM `.xrk/.xrz` logs: laps, splits, corners, G-G, math channels, anomaly detection, AI coach. FastAPI + Next.js.
-- **[kdb-q-challenges](https://github.com/caezium/kdb-q-challenges)** — anti-cheat LLM benchmark for kdb+/q, with a PyKX runner.
+- **[kdb-q-challenges](https://github.com/caezium/kdb-q-challenges)** — anti-cheat LLM benchmark for kdb+/q, with a PyKX runner and a 24/7 self-hosted judge (licensed kdb+ 4.1).
 - **[gripcast](https://github.com/caezium/gripcast)** — track-day conditions score for karting and more!
 
 ## Quant, data science & research
@@ -51,6 +51,7 @@ It's nice meeting you! Feel free to reach out to me.
 - [STAR](https://github.com/caezium/STAR) — A-share next-day return prediction + backtest
 - [kdb-q-challenges](https://github.com/caezium/kdb-q-challenges) — kdb+/q LLM benchmark (hosted judge runner)
 - [kaggle-competitions](https://github.com/caezium/kaggle-competitions) — competition notebooks & solutions
+- neurogolf-2026 — ONNX "network golfing" across 400 ARC tasks; multi-agent solve waves *(private)*
 - [SCIE-1024 Challenge](https://github.com/caezium/SCIE-1024-Challenge-Competition-2025) — 1st place, data-science track (2025)
 - F1 sentiment analysis — end-to-end pipeline on ~50k-row daily Reddit dataset *(local)* for new F1 2026 regulations
 - wsb-fade — research backtest betting against r/wallstreetbets *(local)*
@@ -73,7 +74,7 @@ It's nice meeting you! Feel free to reach out to me.
 
 ## macOS apps
 
-- [Burrow](https://github.com/caezium/Burrow) — Mac maintenance GUI + MCP server (600+★)
+- [Burrow](https://github.com/caezium/Burrow) — Mac maintenance GUI + MCP server (860+★)
 - [Inkling](https://github.com/caezium/Inkling) — quick-capture menu-bar app: type a line, it lands in the right file
 - [homebrew-tap](https://github.com/caezium/homebrew-tap) — `brew install --cask caezium/tap/<name>`
 - wisp — local-first autocomplete with inline ghost text and an on-device LLM *(private)*
@@ -100,6 +101,12 @@ It's nice meeting you! Feel free to reach out to me.
 - [roblox-stats](https://github.com/caezium/roblox-stats) — all-games Roblox analytics (players, visits, favorites) + an MAU floor from Crown-of-O inventory; stdlib-only Python
 - [kaggle-card](https://github.com/caezium/kaggle-card) — self-updating Kaggle progress card: a Cloudflare Worker serving a themeable SVG (READMEs) + JSON (portfolio), refreshed daily via cron
 - Data Science Auto Engineer - Loop engineered auto agentic AI data scientist harness
+- [sentry-to-github-issues](https://github.com/caezium/sentry-to-github-issues) — GitHub Action: poll Sentry, file deduplicated issues with inline stack traces (no Business plan needed)
+- [cc-tools](https://github.com/caezium/cc-tools) — power-user CLIs for Claude Code (persistent tmux sessions, remote driving, self-scheduled cron); `brew install caezium/tap/cc-tools`
+- agentdeck — mission control for parallel Claude Code agents: live status dashboard fed by hooks *(private)*
+- tokenwise — local-first AI token analytics with an Access-gated multi-machine dashboard *(private)*
+- bellwether — benchmark platform hosting three eval families (how well models predict the future), shared leaderboard + timeline site *(local)*
+- frisk — security + provenance layer wrapping npm/npx: package risk surfaced at the install decision *(local)*
 - AI Store Inventory Management App
 
 ## Self-hosting & infra
@@ -130,7 +137,7 @@ It's nice meeting you! Feel free to reach out to me.
 
 
 ## links
-- site: [henryzh.dev](henryzh.dev)
+- site: [henryzh.dev](https://henryzh.dev)
 - github: @caezium
 - kaggle: @caesium137
 - email: henryzhang137@gmail.com
