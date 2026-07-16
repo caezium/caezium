@@ -132,6 +132,6 @@ It's nice meeting you! Feel free to reach out to me.
 ## links
 - site: [henryzh.dev](https://henryzh.dev)
 - book a call: [cal.com/henry-zhang-137](https://cal.com/henry-zhang-137)
-- github: @caezium
-- kaggle: @caesium137
+- github: [@caezium](https://github.com/caezium)
+- kaggle: [@caesium137](https://www.kaggle.com/caesium137)
 - email: henryzhang137@gmail.com
