@@ -41,7 +41,7 @@ It's nice meeting you! Feel free to reach out to me.
 
 ### Featured
 
-- **[Burrow](https://github.com/caezium/Burrow)** · 860+★ · 1,000+ telemetry-verified installs — free, native macOS GUI for the Mole CLI: clean, uninstall, optimize, analyze disk, watch live status, plus a long-range local metrics history and an MCP server for AI agents. `brew install --cask caezium/tap/burrow`
+- **[Burrow](https://github.com/caezium/Burrow)** · 900+★ · Cleanup, app management, maintenance, disk analysis, and live status in one free, native Mac app + extensive support for AI agents `brew install --cask caezium/tap/burrow`
 - **[stint](https://github.com/caezium/stint)** — racing telemetry analysis for AiM `.xrk/.xrz` logs: laps, splits, corners, G-G, math channels, anomaly detection, AI coach. FastAPI + Next.js.
 - **[kdb-q-challenges](https://github.com/caezium/kdb-q-challenges)** — anti-cheat LLM benchmark for kdb+/q, with a PyKX runner and a 24/7 self-hosted judge (licensed kdb+ 4.1).
 - **[gripcast](https://github.com/caezium/gripcast)** — track-day conditions score for karting and more!
@@ -51,12 +51,10 @@ It's nice meeting you! Feel free to reach out to me.
 - [STAR](https://github.com/caezium/STAR) — A-share next-day return prediction + backtest
 - [kdb-q-challenges](https://github.com/caezium/kdb-q-challenges) — kdb+/q LLM benchmark (hosted judge runner)
 - [kaggle-competitions](https://github.com/caezium/kaggle-competitions) — competition notebooks & solutions
-- neurogolf-2026 — ONNX "network golfing" across 400 ARC tasks; multi-agent solve waves *(private)*
-- [SCIE-1024 Challenge](https://github.com/caezium/SCIE-1024-Challenge-Competition-2025) — 1st place, data-science track (2025)
 - F1 sentiment analysis — end-to-end pipeline on ~50k-row daily Reddit dataset *(local)* for new F1 2026 regulations
 - wsb-fade — research backtest betting against r/wallstreetbets *(local)*
 - pdf2evidence — Research paper PDF → text + LaTeX + linked-crop pipeline (MinerU) *(local)*
-- quant-bakeoff — NotebookLM-alternative eval across different apps *(local)*
+- quant-bakeoff — NotebookLM-alternative harness eval for quant research papers across different apps *(local)*
 
 ## Racing & telemetry
 
@@ -67,7 +65,7 @@ It's nice meeting you! Feel free to reach out to me.
 - [pitwall](https://github.com/caezium/pitwall) — finance command center: living costs, karting costs, AI token spend, IBKR portfolio
 - clipx — Mac-native video clip workbench: scrub, mark in/out, tag, export at platform resolution *(private)*
 - ghost-proto — 3D ghost-kart rendered onto onboard video (fisheye + GPS + mount calibration) *(local)*
-- Onboard — "Hudl for karting": coach↔driver video review with live annotations + telemetry overlay *(local)*
+- Onboard — coach↔driver video review with live annotations + telemetry overlay *(local)*
 - kart-highlights — auto-cut highlight-reel app from onboard footage *(local)*
 - IAME X30 jetting calculator (JetLab) — carb tuning for air temp / humidity / altitude *(local)*
 - kart tyre-pressure model — target hot pressures from track conditions & compound *(local)*
@@ -93,8 +91,6 @@ It's nice meeting you! Feel free to reach out to me.
 - apex-sim — LLM racing-agent benchmark: agents pick a line and react to engineer radio, the sim drives *(private)*
 - vista — visual dashboard for AI coding agents: see what the agent is doing without reading prose *(private)*
 - [Nib](https://github.com/caezium/nib) — turn an idea or article into original editorial illustrations starring an avatar you own; free agent skill (Claude Code/Codex/Cursor/Gemini) + desktop app
-- Burrow Cloud — agent-native CLI + runtime for full-stack TS "burrows" *(local)*
-- ClaudeFlow — Claude quota-timing planner + latency-by-hour *(local)*
 - Margin — read-later clone (SvelteKit + SQLite/FTS5) *(local)*
 - Babel — Library-of-Babel explorer over the Internet Archive *(local)*
 - Sift — semantic vector search over YouTube channels (transcripts + comments) *(local)*
@@ -103,7 +99,6 @@ It's nice meeting you! Feel free to reach out to me.
 - Data Science Auto Engineer - Loop engineered auto agentic AI data scientist harness
 - [sentry-to-github-issues](https://github.com/caezium/sentry-to-github-issues) — GitHub Action: poll Sentry, file deduplicated issues with inline stack traces (no Business plan needed)
 - [cc-tools](https://github.com/caezium/cc-tools) — power-user CLIs for Claude Code (persistent tmux sessions, remote driving, self-scheduled cron); `brew install caezium/tap/cc-tools`
-- agentdeck — mission control for parallel Claude Code agents: live status dashboard fed by hooks *(private)*
 - tokenwise — local-first AI token analytics with an Access-gated multi-machine dashboard *(private)*
 - bellwether — benchmark platform hosting three eval families (how well models predict the future), shared leaderboard + timeline site *(local)*
 - frisk — security + provenance layer wrapping npm/npx: package risk surfaced at the install decision *(local)*
@@ -113,8 +108,7 @@ It's nice meeting you! Feel free to reach out to me.
 
 - Mac Studio home server — always-on, Wake-on-LAN + Tailscale *(infra)*
 - degoog — self-hosted de-Googled services stack *(local)*
-- Custom Ralph Loop — autonomous agent-loop tooling for quant-research scaffolding *(local)*
-- devport — personal developer portfolio / dashboard *(private)*
+- devport — personal developer portfolio / dashboard, web + ssh tui *(private, for now)*
 - Obsidian - my own custom and evolving Obsidian workflow for studying, planning, and managing my life.
 
 ## Other
@@ -130,14 +124,14 @@ It's nice meeting you! Feel free to reach out to me.
 - [the-ripples](https://github.com/FTC-Ripples-25832/the-ripples) — team website (Next.js)
 
 **Ventures** *(early-stage; most repos private)*
-- **leveled AI** ([@leveledai](https://github.com/leveledai)) — adaptive edtech
+- **leveled AI** ([@leveledai](https://github.com/leveledai)) — adaptive edtech + minimally-invasive AI study layer for students
 - **PastPaperRank** ([@PastPaperRank](https://github.com/PastPaperRank)) — practice real past paper questions by subject, topic and difficulty
-- **Coworker** - minimally-invasive AI study layer for students
 
 
 
 ## links
 - site: [henryzh.dev](https://henryzh.dev)
+- book a call: [cal.com/henry-zhang-137](https://cal.com/henry-zhang-137)
 - github: @caezium
 - kaggle: @caesium137
 - email: henryzhang137@gmail.com
