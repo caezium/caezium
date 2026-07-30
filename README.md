@@ -41,7 +41,7 @@ It's nice meeting you! Feel free to reach out to me.
 
 ### Featured
 
-- **[Burrow](https://github.com/caezium/Burrow)** · 900+★ · Cleanup, app management, maintenance, disk analysis, and live status in one free, native Mac app + extensive support for AI agents `brew install --cask caezium/tap/burrow`
+- **[Burrow](https://github.com/caezium/Burrow)** · 1000+★ · Cleanup, app management, maintenance, disk analysis, and live status in one free, native Mac app + extensive support for AI agents `brew install --cask caezium/tap/burrow`
 - **[stint](https://github.com/caezium/stint)** — racing telemetry analysis for AiM `.xrk/.xrz` logs: laps, splits, corners, G-G, math channels, anomaly detection, AI coach. FastAPI + Next.js.
 - **[kdb-q-challenges](https://github.com/caezium/kdb-q-challenges)** — anti-cheat LLM benchmark for kdb+/q, with a PyKX runner and a 24/7 self-hosted judge (licensed kdb+ 4.1).
 - **[gripcast](https://github.com/caezium/gripcast)** — track-day conditions score for karting and more!
@@ -59,7 +59,6 @@ It's nice meeting you! Feel free to reach out to me.
 ## Racing & telemetry
 
 - [stint](https://github.com/caezium/stint) — Karting AiM telemetry analysis with an AI coach
-- [OpenLap](https://github.com/caezium/OpenLap) — telemetry-overlay renderer for onboards, plus more data from your videos *(rebuild in progress)*
 - [gripcast](https://github.com/caezium/gripcast) — track-day conditions score for karting and more!
 - [kart-telemetry-experiment](https://github.com/caezium/kart-telemetry-experiment) — Insta360 Go 3S as an IMU + video sensor for karting steering
 - [pitwall](https://github.com/caezium/pitwall) — finance command center: living costs, karting costs, AI token spend, IBKR portfolio
@@ -72,7 +71,7 @@ It's nice meeting you! Feel free to reach out to me.
 
 ## macOS apps
 
-- [Burrow](https://github.com/caezium/Burrow) — Mac maintenance GUI + MCP server (860+★)
+- [Burrow](https://github.com/caezium/Burrow) — Mac maintenance GUI + MCP server (1000+★)
 - [Inkling](https://github.com/caezium/Inkling) — quick-capture menu-bar app: type a line, it lands in the right file
 - [homebrew-tap](https://github.com/caezium/homebrew-tap) — `brew install --cask caezium/tap/<name>`
 - wisp — local-first autocomplete with inline ghost text and an on-device LLM *(private)*
