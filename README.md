@@ -41,7 +41,7 @@ It's nice meeting you! Feel free to reach out to me.
 
 ### Featured
 
-- **[Burrow](https://github.com/caezium/Burrow)** · 1000+★ · Cleanup, app management, maintenance, disk analysis, and live status in one free, native Mac app + extensive support for AI agents `brew install --cask caezium/tap/burrow`
+- **[Burrow](https://github.com/caezium/Burrow)** · 1000+★ · Cleanup, app management, maintenance, disk analysis, and live status in one free, native Mac app + extensive support for AI agents [burrow.computer](https://burrow.computer/)
 - **[stint](https://github.com/caezium/stint)** — racing telemetry analysis for AiM `.xrk/.xrz` logs: laps, splits, corners, G-G, math channels, anomaly detection, AI coach. FastAPI + Next.js.
 - **[kdb-q-challenges](https://github.com/caezium/kdb-q-challenges)** — anti-cheat LLM benchmark for kdb+/q, with a PyKX runner and a 24/7 self-hosted judge (licensed kdb+ 4.1).
 - **[gripcast](https://github.com/caezium/gripcast)** — track-day conditions score for karting and more!
