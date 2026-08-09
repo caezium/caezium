@@ -45,6 +45,8 @@ It's nice meeting you! Feel free to reach out to me.
 - **[stint](https://github.com/caezium/stint)** — racing telemetry analysis for AiM `.xrk/.xrz` logs: laps, splits, corners, G-G, math channels, anomaly detection, AI coach. FastAPI + Next.js.
 - **[kdb-q-challenges](https://github.com/caezium/kdb-q-challenges)** — anti-cheat LLM benchmark for kdb+/q, with a PyKX runner and a 24/7 self-hosted judge (licensed kdb+ 4.1).
 - **[gripcast](https://github.com/caezium/gripcast)** — track-day conditions score for karting and more!
+- **[zen-page-tint](https://github.com/caezium/zen-page-tint)** — adaptive chrome color for Zen Browser, tuned for 1000+ tab sessions
+- **[Nib](https://github.com/caezium/nib)** — turn an idea or article into original editorial illustrations starring an avatar you own; free agent skill + desktop app
 
 ## Quant, data science & research
 
@@ -61,13 +63,12 @@ It's nice meeting you! Feel free to reach out to me.
 - [stint](https://github.com/caezium/stint) — Karting AiM telemetry analysis with an AI coach
 - [gripcast](https://github.com/caezium/gripcast) — track-day conditions score for karting and more!
 - [kart-telemetry-experiment](https://github.com/caezium/kart-telemetry-experiment) — Insta360 Go 3S as an IMU + video sensor for karting steering
-- [pitwall](https://github.com/caezium/pitwall) — finance command center: living costs, karting costs, AI token spend, IBKR portfolio
+- [pitwall](https://github.com/caezium/pitwall) — finance command center: living costs, karting costs, AI token spend, IBKR portfolio, etc
 - clipx — Mac-native video clip workbench: scrub, mark in/out, tag, export at platform resolution *(private)*
-- ghost-proto — 3D ghost-kart rendered onto onboard video (fisheye + GPS + mount calibration) *(local)*
+- ghost-proto — 3D ghost-kart rendered onto onboard video *(local)*
 - Onboard — coach↔driver video review with live annotations + telemetry overlay *(local)*
-- kart-highlights — auto-cut highlight-reel app from onboard footage *(local)*
-- IAME X30 jetting calculator (JetLab) — carb tuning for air temp / humidity / altitude *(local)*
-- kart tyre-pressure model — target hot pressures from track conditions & compound *(local)*
+- IAME X30 jetting calculator — carb tuning for air temp / humidity / altitude *(local)*
+- kart tyre pressure model — target pressures from track conditions & compound *(local)*
 
 ## macOS apps
 
@@ -87,9 +88,7 @@ It's nice meeting you! Feel free to reach out to me.
 - [zen-page-tint](https://github.com/caezium/zen-page-tint) — adaptive chrome color for Zen Browser, tuned for 1000+ tab sessions
 - [tokscale-readme-stats](https://github.com/caezium/tokscale-readme-stats) — dynamic token-usage stats card for GitHub READMEs
 - receipts — watch-time transparency layer exposing undisclosed sponsorship & AI content in creator videos *(private)*
-- apex-sim — LLM racing-agent benchmark: agents pick a line and react to engineer radio, the sim drives *(private)*
-- vista — visual dashboard for AI coding agents: see what the agent is doing without reading prose *(private)*
-- [Nib](https://github.com/caezium/nib) — turn an idea or article into original editorial illustrations starring an avatar you own; free agent skill (Claude Code/Codex/Cursor/Gemini) + desktop app
+- [Nib](https://github.com/caezium/nib) — turn an idea or article into original editorial illustrations starring an avatar you own; free agent skill + desktop app
 - Margin — read-later clone (SvelteKit + SQLite/FTS5) *(local)*
 - Babel — Library-of-Babel explorer over the Internet Archive *(local)*
 - Sift — semantic vector search over YouTube channels (transcripts + comments) *(local)*
@@ -101,7 +100,7 @@ It's nice meeting you! Feel free to reach out to me.
 - tokenwise — local-first AI token analytics with an Access-gated multi-machine dashboard *(private)*
 - bellwether — benchmark platform hosting three eval families (how well models predict the future), shared leaderboard + timeline site *(local)*
 - frisk — security + provenance layer wrapping npm/npx: package risk surfaced at the install decision *(local)*
-- AI Store Inventory Management App
+- tally - AI Store Inventory Management App
 
 ## Self-hosting & infra
 
