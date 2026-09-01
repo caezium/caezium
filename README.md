@@ -1,6 +1,6 @@
 <h2 align="left">hi henry here! im just a student trying to learn stuff</h2>
 
-I'm currently working on agent infrastructure at [Photon](https://photon.codes) and assistant researcher at a private fund trading Chinese A-shares.
+I'm currently an assistant researcher at a private quant fund trading Chinese A-shares. (prev at [Photon](https://photon.codes))
 
 I'm interested in agentic engineering, quantitative research, and racing telemetry — I race karts competitively.
 
