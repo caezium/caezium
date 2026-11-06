@@ -55,8 +55,6 @@ It's nice meeting you! Feel free to reach out to me.
 - [kaggle-competitions](https://github.com/caezium/kaggle-competitions) — competition notebooks & solutions
 - F1 sentiment analysis — end-to-end pipeline on ~50k-row daily Reddit dataset *(local)* for new F1 2026 regulations
 - wsb-fade — research backtest betting against r/wallstreetbets *(local)*
-- pdf2evidence — Research paper PDF → text + LaTeX + linked-crop pipeline (MinerU) *(local)*
-- quant-bakeoff — NotebookLM-alternative harness eval for quant research papers across different apps *(local)*
 
 ## Racing & telemetry
 
@@ -68,39 +66,31 @@ It's nice meeting you! Feel free to reach out to me.
 - ghost-proto — 3D ghost-kart rendered onto onboard video *(local)*
 - Onboard — coach↔driver video review with live annotations + telemetry overlay *(local)*
 - IAME X30 jetting calculator — carb tuning for air temp / humidity / altitude *(local)*
-- kart tyre pressure model — target pressures from track conditions & compound *(local)*
 
 ## macOS apps
 
 - [Burrow](https://github.com/caezium/Burrow) — Mac maintenance GUI + MCP server (1000+★)
 - [Inkling](https://github.com/caezium/Inkling) — quick-capture menu-bar app: type a line, it lands in the right file
-- [homebrew-tap](https://github.com/caezium/homebrew-tap) — `brew install --cask caezium/tap/<name>`
-- wisp — local-first autocomplete with inline ghost text and an on-device LLM *(private)*
+- [Nib](https://github.com/caezium/nib) — turn an idea or article into original editorial illustrations starring an avatar you own; free agent skill + desktop app
 
 ## Obsidian plugins
 
 - [spotify-control](https://github.com/caezium/obsidian-spotify-control) — now-playing sidebar, time-synced lyrics, queue, transport hotkeys
 - [dayflow](https://github.com/caezium/obsidian-dayflow-plugin) — Dayflow timelines in your vault, inline SVG charts, read-only via sql.js
 - [sticky-notes](https://github.com/caezium/obsidian-sticky-notes) — sticky notes for Obsidian
+- [Obsidian Guard](https://github.com/caezium/obsidian-guard) - Lightweight macOS health checks and incremental Git backups for Obsidian vaults
 
 ## AI, agents & web
 
 - [zen-page-tint](https://github.com/caezium/zen-page-tint) — adaptive chrome color for Zen Browser, tuned for 1000+ tab sessions
-- [tokscale-readme-stats](https://github.com/caezium/tokscale-readme-stats) — dynamic token-usage stats card for GitHub READMEs
 - receipts — watch-time transparency layer exposing undisclosed sponsorship & AI content in creator videos *(private)*
-- [Nib](https://github.com/caezium/nib) — turn an idea or article into original editorial illustrations starring an avatar you own; free agent skill + desktop app
-- Margin — read-later clone (SvelteKit + SQLite/FTS5) *(local)*
 - Babel — Library-of-Babel explorer over the Internet Archive *(local)*
 - Sift — semantic vector search over YouTube channels (transcripts + comments) *(local)*
-- [roblox-stats](https://github.com/caezium/roblox-stats) — all-games Roblox analytics (players, visits, favorites) + an MAU floor from Crown-of-O inventory; stdlib-only Python
-- [kaggle-card](https://github.com/caezium/kaggle-card) — self-updating Kaggle progress card: a Cloudflare Worker serving a themeable SVG (READMEs) + JSON (portfolio), refreshed daily via cron
 - Data Science Auto Engineer - Loop engineered auto agentic AI data scientist harness
 - [sentry-to-github-issues](https://github.com/caezium/sentry-to-github-issues) — GitHub Action: poll Sentry, file deduplicated issues with inline stack traces (no Business plan needed)
 - [cc-tools](https://github.com/caezium/cc-tools) — power-user CLIs for Claude Code (persistent tmux sessions, remote driving, self-scheduled cron); `brew install caezium/tap/cc-tools`
 - tokenwise — local-first AI token analytics with an Access-gated multi-machine dashboard *(private)*
-- bellwether — benchmark platform hosting three eval families (how well models predict the future), shared leaderboard + timeline site *(local)*
 - frisk — security + provenance layer wrapping npm/npx: package risk surfaced at the install decision *(local)*
-- tally - AI Store Inventory Management App
 
 ## Self-hosting & infra
 
@@ -112,14 +102,12 @@ It's nice meeting you! Feel free to reach out to me.
 ## Other
 
 - [robotics-project](https://github.com/caezium/robotics-project) — PyBullet + YOLO + inverse-kinematics pick-and-place (Stanford research)
-- reminisce — music-reactive typography for Alzheimer's care *(private)*
 
 ## Organizations & teams
 
 - [FTC-25832-Into-The-Deep](https://github.com/FTC-25832/FTC-25832-Into-The-Deep) — Into-the-Deep season robot code (Java)
 - [TORRENT-Decode](https://github.com/FTC-Ripples-25832/TORRENT-Decode) — Decode-season vision & autonomous (Java)
 - [FTC-Stats-new](https://github.com/FTC-Ripples-25832/FTC-Stats-new) — FTC match stats & analytics (Svelte)
-- [the-ripples](https://github.com/FTC-Ripples-25832/the-ripples) — team website (Next.js)
 
 **Ventures** *(early-stage; most repos private)*
 - **leveled AI** ([@leveledai](https://github.com/leveledai)) — adaptive edtech + minimally-invasive AI study layer for students
